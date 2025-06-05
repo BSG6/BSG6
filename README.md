@@ -31,6 +31,12 @@ Hi I'm Brie, I am a Software Engineer <br>😄 Pronouns: She / Her<br>🛠 I'm c
 
 </div>
 
+## 💻 Tech Stack
+
+`HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `React` `Nodemon`  
+`NPM` `Netlify` `Render` `Postman` `Git` `GitHub` `Trello` `Canva` `Multer` `Compass` `EJS`
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bsg6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bsg6&theme=dark&hide_border=false)<br/>
