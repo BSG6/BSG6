@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Brie, I am a Software Engineer <br>😄 Pronouns: She / Her<br>🛠 I'm currently working on: A freelance website project for a higher education client.<br>🤝 I'm looking to collaborate on: Open source projects focused on wellness or clean earth  <br>🙋‍♀️ I'm looking for help with: Tailwind and Javascript  <br>🌱 I'm currently learning: Java Script, Node.js, MongoDB and Express<br>💬 Ask me about: Self-care, jewelry making, and my professional gremlin-wrangling skills<br>⚡ Fun fact: I love hiking and I'm teaching my 5 year old how to code on Minecraft!
+Hi I'm Brie, I am a Software Engineer <br>😄 Pronouns: She / Her<br>🛠 I'm currently working on: A freelance website project for a higher education client.<br>🤝 I'm looking to collaborate on: Open source projects focused on community or clean earth  <br>🙋‍♀️ I'm looking for help with: Tailwind and Javascript  <br>🌱 I'm currently learning: Java Script, Node.js, MongoDB and Express<br>💬 Ask me about: Self-care, jewelry making, and my professional gremlin-wrangling skills<br>⚡ Fun fact: I love hiking and I'm teaching my 5 year old how to code on Minecraft!
 
 
 
